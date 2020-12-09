@@ -13,6 +13,6 @@ The scripts uses MatLab's textscan() to efficiencly load large text data <br />
 The scripts were used to create Fig 3. Panel A in our publication: <br />
 The scripts were used to create Fig 3. Panel A in our publication ( Liu, Q., Osterlund, E. J., Chi, X., Pogmore, J., Leber, B., & Andrews, D. W. (2019). Bim escapes displacement by BH3-mimetic anti-cancer drugs by double-bolt locking both Bcl-XL and Bcl-2. Elife, 8, e37689.
 <br />
-![](panel_a.jpg 50x50)
+<img src="panel_a.jpg" width="300">
 
 
